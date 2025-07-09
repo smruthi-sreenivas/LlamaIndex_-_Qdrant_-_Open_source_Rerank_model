@@ -1,0 +1,1 @@
+# LlamaIndex_-_Qdrant_-_Open_source_Rerank_model
